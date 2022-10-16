@@ -40,7 +40,7 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 
 - 📫 How to reach me *aladdin.on@gmail.com*.
 
-- 📄 Know about my experiences in my [CV](https://drive.google.com/).
+- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1w6KPsMrtz69GeKbzGNsZ8BaLF30vQ92P/view?usp=sharing).
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
