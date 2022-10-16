@@ -40,7 +40,7 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 
 - 📫 How to reach me *aladdin.on@gmail.com*.
 
-- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1w6KPsMrtz69GeKbzGNsZ8BaLF30vQ92P/view?usp=sharing).
+- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1OVE8LM_Ec_IsdbwPMLAvvMJFAugi5cnL/view?usp=sharing).
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -49,7 +49,7 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a  href="https://linkedin.com/in/aladdin-alhazmi-5a2377199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="watheq-show" height="30" width="40" /></a>
+<a  href="https://linkedin.com/in/aladdin-alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="watheq-show" height="30" width="40" /></a>
 <a  href="https://twitter.com/aladdin_alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="watheq_show" height="30" width="40" /></a>
 <a  href="https://fb.com/eng.aladdin.alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="watheq.show" height="30" width="40" /></a>
 
