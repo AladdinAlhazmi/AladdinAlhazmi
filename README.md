@@ -38,9 +38,9 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 
 - 💬 Ask me also about *Laravel, Livewire, and Tailwind*.
 
-- 📫 How to reach me *aladdin.on@gmail.com*.
+- 📫 How to reach me *eng.aladdin.alhazmi@gmail.com.
 
-- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1OVE8LM_Ec_IsdbwPMLAvvMJFAugi5cnL/view?usp=sharing).
+- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1f6AW_qCXi18WjdmLGUQOfpeLtusK6mh0/view?usp=sharing).
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
