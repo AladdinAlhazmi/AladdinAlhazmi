@@ -70,6 +70,6 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 
 
 <div align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AladdinAlhazmi&" alt="AladdinAlhazmi" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AladdinAlhazmi" alt="AladdinAlhazmi" />
 </div>
 
