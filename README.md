@@ -35,6 +35,8 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
  <img src="https://github-profile-trophy.vercel.app/?username=AladdinAlhazmi" alt="AladdinAlhazmi" /></a>
 </p>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 <p align="left"> <a href="https://twitter.com/aladdin_alhazmi" target="_blank"><img src="https://img.shields.io/twitter/follow/aladdin_alhazmi?logo=twitter&style=for-the-badge" alt="aladdin_alhazmi" /></a> </p>
 
 - 🌱 I’m currently learning *Vue.js*.
