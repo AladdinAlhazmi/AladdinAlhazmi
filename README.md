@@ -65,7 +65,7 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AladdinAlhazmi&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AladdinAlhazmi&show_icons=true&count_private=true&include_all_commit=true&rank_icon=github" />
    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AladdinAlhazmi&layout=compact&count_private=true" />
 </div>
 
