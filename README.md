@@ -31,8 +31,8 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AladdinAlhazmi&label=Profile%20views&color=0e75b6&style=flat" alt="AladdinAlhazmi" /> </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=AladdinAlhazmi" alt="AladdinAlhazmi" /></a>
+<div>
+ <img src="https://github-profile-trophy.vercel.app/?username=AladdinAlhazmi" alt="AladdinAlhazmi" /></div>
 </p>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
