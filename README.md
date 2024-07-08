@@ -54,9 +54,8 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a  href="https://linkedin.com/in/aladdin-alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="watheq-show" height="30" width="40" /></a>
-<a  href="https://twitter.com/aladdin_alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="watheq_show" height="30" width="40" /></a>
-<a  href="https://fb.com/eng.aladdin.alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="watheq.show" height="30" width="40" /></a>
+<a  href="https://linkedin.com/in/aladdin-alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aladdin_alhazmi" height="30" width="40" /></a>
+<a  href="https://twitter.com/aladdin_alhazmi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aladdin_alhazmi" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
