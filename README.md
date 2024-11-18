@@ -72,7 +72,8 @@ front-end <b>(HTML/CSS/Tailwind/Sass/JavaScript/Livewire/Blazor/Anguler)</b> and
 -->
 <div align="center">
    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AladdinAlhazmi&layout=compact&count_private=true" />
-   <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=AladdinAlhazmi" alt="AladdinAlhazmi" />
+   <!-- <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=AladdinAlhazmi" alt="AladdinAlhazmi" /> -->
+   <img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=AladdinAlhazmi&exclude_days=Fri%2CSat" alt="AladdinAlhazmi" />
 </div>
 
 <!--
